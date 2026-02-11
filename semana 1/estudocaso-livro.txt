@@ -1,0 +1,23 @@
+Estudo de Caso: "Sistema de Gerenciamento de Biblioteca Universitária"
+
+A biblioteca da Universidade fictícia "UniTech" ainda gerencia seus empréstimos de livros manualmente, através de fichas de papel. Isso tem causado grandes problemas: os bibliotecários não conseguem saber se um livro está disponível sem ir até a prateleira, e os alunos frequentemente perdem prazos, gerando filas para pagar multas.
+A nova proposta de sistema (web) deve atender aos seguintes pontos:
+
+Atores: Aluno, Bibliotecário.
+Login: Alunos e bibliotecários devem fazer login com matrícula/CPF e senha.
+Catálogo: Alunos devem ser capazes de pesquisar livros por título, autor ou gênero.
+Empréstimo: O aluno poderá reservar um livro online. Após a reserva, o aluno tem 24h para retirar o livro fisicamente, momento em que o bibliotecário muda o status para "Emprestado".
+Devolução: O bibliotecário deve ser capaz de registrar a devolução, calculando automaticamente multas para devoluções atrasadas (R$ 2,00 por dia).
+Gerenciamento: Bibliotecários devem ser capazes de cadastrar, atualizar ou remover livros do acervo. 
+
+
+Atividade: Levantamento de Requisitos
+Com base no cenário acima, realize as seguintes tarefas:
+1. Identificação de Atores
+Quem são os usuários que interagem com o sistema? 
+2. Requisitos Funcionais (RF)
+Escreva pelo menos 6 Requisitos Funcionais utilizando a estrutura: "O sistema deve..." + [ação/funcionalidade]. 
+Exemplo: RF01 - O sistema deve permitir que o aluno pesquise livros. 
+3. Casos de Uso
+Escolha um dos requisitos acima e descreva-o como um caso de uso simples (Atores, Fluxo Principal e Exceções/Alternativas). 
+Sugestão: Ação de Empréstimo.
