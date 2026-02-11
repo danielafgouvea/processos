@@ -1,0 +1,13 @@
+O Sistema da Cafeteria "Café Rápido"
+
+Cenário:
+A cafeteria "Café Rápido" deseja um aplicativo simples para dispositivos móveis para que os clientes 
+façam pedidos sem precisar enfrentar filas. Atualmente, os pedidos são feitos apenas no balcão.
+
+História do Usuário (O que eles querem):
+"Eu, como cliente, quero abrir o app, ver o cardápio com os preços, selecionar meus cafés e lanches, 
+pagar com cartão de crédito e receber um código para retirar no balcão."
+
+Sua Tarefa
+Com base no cenário acima, liste 5 Requisitos Funcionais para o aplicativo.
+Dica: Pense em ações concretas (verbo + objeto). Ex: "O sistema deve permitir..."
