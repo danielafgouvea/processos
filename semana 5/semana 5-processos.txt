@@ -1,0 +1,31 @@
+"Testando um app de quiz"
+
+Vamos aplicar as técnicas de particionamento de equivalência e análise de valor-limite para testar 
+um aplicativo de quiz educacional.
+
+1- Requisitos do app de quiz:
+- usuários podem responder entre 5 e 50 perguntas por sessão;
+- cada pergunta tem tempo-limite entre 10 e 60 segundos;
+- pontuação: respostas corretas valem entre 1 e 10 pontos;
+- idade mínima para cadastro: 13 anos;
+- usuários podem criar quizzes com 5-20 perguntas.
+
+2 - Instruções para a atividade:
+- forme grupos de 3 a 4 alunos;
+- identifique as variáveis de entrada e suas partições válidas e inválidas;
+- determine os valores-limite para cada variável;
+- crie pelo menos 3 casos de teste utilizando as técnicas aprendidas;
+- faça um relatório no formato "escrito" para registro da atividade e envie aqui no AVA.
+
+Exemplo de caso de teste:
+________________________________________________________________
+ID: TC-001							|
+								|	
+Objetivo: criar quiz com número mínimo de perguntas		|
+								|
+Técnica: valor-limite						|
+								|	
+Entrada: número de perguntas = 5 (valor mínimo permitido)	|
+								|
+Resultado: sistema deve aceitar a criação do quiz		|
+________________________________________________________________|
