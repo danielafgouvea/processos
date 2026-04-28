@@ -1,0 +1,19 @@
+Atividade Investigativa
+
+Situação
+
+Uma equipe desenvolveu um sistema de compras online.
+Durante os testes, foi necessário verificar se o sistema permite adicionar produtos ao carrinho corretamente.
+
+Responda:
+1️) Explique a diferença entre testes funcionais e testes não funcionais.
+
+2️) Monte um exemplo simples de caso de teste para verificar a funcionalidade “adicionar produto ao carrinho”.
+Inclua: cenário, dados e resultado esperado.
+
+3️) Durante um teste automatizado foi identificado que o botão “finalizar compra” não funciona.
+Explique como esse defeito deve ser registrado.
+
+4) Reflita e responda com suas palavras:
+
+- Por que é importante realizar testes antes de entregar um software ao cliente?
