@@ -1,0 +1,15 @@
+estudo de caso
+
+Uma empresa está desenvolvendo um aplicativo e realizou testes no sistema.
+O relatório apresentou os seguintes dados:
+60 testes executados
+48 testes passaram
+12 testes falharam
+cobertura de testes: 65%
+
+Responda:
+1) Os alunos deverão analisar a situação e responder em texto explicativo:
+2) O que esses resultados indicam sobre a qualidade do sistema?
+3) A cobertura de testes é adequada? Justifique.
+4) O que a equipe de desenvolvimento deveria fazer para melhorar os testes?
+5) Que decisões poderiam ser tomadas com base nessas métricas?
