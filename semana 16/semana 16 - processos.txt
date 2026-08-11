@@ -1,0 +1,37 @@
+Atividade – Interpretando os valores
+Leia a situação:
+Uma equipe está desenvolvendo um aplicativo para uma escola. Durante os testes, os alunos perceberam que a tela de consulta de notas estava confusa. A equipe conversa com os alunos e modifica a tela.
+Pergunta:
+Qual valor do Manifesto Ágil aparece principalmente nessa situação?
+a) Seguir o planejamento original sem alterações.
+b) Responder a mudanças e colaborar com os usuários.
+c) Produzir mais documentos.
+d) Evitar conversar com os usuários.
+
+Atividade – Qual princípio está presente?
+Associe cada situação ao princípio correspondente.
+1. O cliente solicita uma nova função durante o projeto.
+2. A equipe conversa ao final da atividade para identificar o que pode melhorar.
+3. A equipe entrega uma nova funcionalidade funcionando.
+4. Os integrantes decidem entre si como dividir as tarefas.
+5. A equipe elimina funções desnecessárias para deixar o sistema mais simples.
+
+Atividade – Quem sou eu?
+Relacione:
+A – Product Owner
+B – Scrum Master
+C – Developers
+( ) Criam o incremento do produto.
+( ) Trabalha para maximizar o valor do produto.
+( ) Ajuda a equipe a lidar com impedimentos.
+( ) Participam da construção do produto.
+( ) Ordena o Product Backlog.
+
+1. O que significa trabalhar de forma ágil?
+2. Qual dos quatro valores do Manifesto Ágil você considera mais importante para uma equipe? Explique.
+3. Escolha dois dos doze princípios e explique a importância de cada um.
+4. Qual é a diferença entre Product Owner, Scrum Master e Developers?
+5. O que acontece quando o requisito do produto muda?
+6. Por que uma equipe de desenvolvimento precisa saber lidar com mudanças?
+7. Por que a comunicação é importante para uma equipe Scrum?
+8. O que significa melhoria contínua?
