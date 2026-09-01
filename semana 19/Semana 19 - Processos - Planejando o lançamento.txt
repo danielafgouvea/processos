@@ -1,0 +1,30 @@
+Atividade: "Planejando o lançamento"
+
+Situação:
+
+Os alunos fazem parte de uma equipe que está desenvolvendo um aplicativo escolar.
+
+O backlog possui:
+
+Tarefa			   Story Points
+Login				3
+Cadastro de alunos		5
+Lista de atividades		5
+Entrega de atividades		8
+Notificações			8
+Relatórios			13
+Chat				8
+
+Velocity da equipe: 15 pontos/Sprint.
+
+Respondam:
+
+1. Somar os Story Points.
+
+2. Dividir o total pela Velocity.
+
+3. Estimar quantos Sprints serão necessários.
+
+4. Organizar as tarefas nos Sprints.
+
+5. Escolher quais funcionalidades poderiam fazer parte da primeira versão do produto.
