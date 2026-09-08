@@ -1,0 +1,40 @@
+Atividade Semana 20 - Processos
+
+"Detetives do Pipeline”
+
+Divida a turma em pequenos grupos.
+
+Cenário:
+
+Uma equipe está desenvolvendo um aplicativo de delivery. João alterou o código do sistema de pedidos e enviou a alteração para o GitHub. O pipeline foi executado automaticamente.
+
+Analise a situação a seguir e responda:
+1. Git Push          ✅
+2. Checkout          ✅
+3. Instalação        ✅
+4. Testes            ❌
+5. Build             ⏸️
+6. Deploy            ⏸️
+
+Os grupos deverão responder:
+
+1. Em qual etapa ocorreu o problema?
+2. O código deve ser enviado para o ambiente de teste?
+3. Por que o deploy não deve continuar?
+4. Qual é a vantagem de descobrir o erro nessa etapa?
+5. Qual conceito está sendo aplicado: CI ou CD?
+
+
+CI verifica automaticamente o código. CD automatiza a entrega do código aprovado.
+
+Complete o que cada um significa:
+
+CI = ______________________________
+
+CD = ______________________________
+
+Build = ___________________________
+
+Pipeline = ________________________
+
+GitHub Actions = __________________
