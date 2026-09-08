@@ -2,7 +2,7 @@ Atividade Semana 20 - Processos
 
 "Detetives do Pipeline”
 
-Divida a turma em pequenos grupos.
+Atividade em dupla.
 
 Cenário:
 
@@ -16,7 +16,7 @@ Analise a situação a seguir e responda:
 5. Build             ⏸️
 6. Deploy            ⏸️
 
-Os grupos deverão responder:
+A dupla deverá responder:
 
 1. Em qual etapa ocorreu o problema?
 2. O código deve ser enviado para o ambiente de teste?
@@ -25,7 +25,7 @@ Os grupos deverão responder:
 5. Qual conceito está sendo aplicado: CI ou CD?
 
 
-CI verifica automaticamente o código. CD automatiza a entrega do código aprovado.
+"CI verifica automaticamente o código. CD automatiza a entrega do código aprovado."
 
 Complete o que cada um significa:
 
