@@ -1,0 +1,10 @@
+Atividade – Compensação de Notas
+
+Disciplina: Redes de Computadores
+Semana 20 – Integração Contínua (CI) e Entrega Contínua (CD)
+
+1. O que é Integração Contínua (CI) e qual é sua importância no desenvolvimento de sistemas? Explique como ela ajuda a identificar erros no código.
+
+2. Qual é a diferença entre Integração Contínua (CI) e Entrega Contínua (CD)? Explique com suas próprias palavras a função de cada uma.
+
+3. Imagine que uma equipe desenvolveu uma atualização para um aplicativo de mensagens, mas uma nova versão apresentou um erro que impedia o envio de mensagens. Como as práticas de CI e CD poderiam ajudar a identificar esse erro e disponibilizar uma versão corrigida?
