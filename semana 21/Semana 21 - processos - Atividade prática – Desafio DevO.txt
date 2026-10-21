@@ -1,0 +1,18 @@
+2. Atividade prática – Desafio DevOps
+
+Resolva o problema do aplicativo
+
+Tempo: 15 minutos · Em grupos de 3 a 4 alunos
+
+Situação-problema:
+
+Uma equipe desenvolveu um aplicativo escolar. Após uma atualização, o aplicativo começou a apresentar erros. Os usuários reclamaram, a equipe de desenvolvimento culpou a equipe de operações e ninguém verificou os testes antes da publicação.
+
+Respondam em uma folha de caderno e entregue:
+
+Qual problema de DevOps aparece nessa situação?
+Como as equipes poderiam trabalhar melhor juntas?
+Qual prática de automação poderia evitar esse problema?
+Como o feedback dos usuários ajudaria a corrigir o aplicativo?
+Qual métrica DORA poderia ajudar a avaliar a frequência com que novas versões são disponibilizadas?
+Desafio extra: escolham dois princípios CALMS e expliquem como eles ajudariam a resolver o problema.
