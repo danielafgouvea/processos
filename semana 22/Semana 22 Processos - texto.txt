@@ -1,0 +1,44 @@
+Semana 22 (Processos) – Infraestrutura como Código (IaC) com Terraform
+
+Objetivo: compreender como criar e organizar uma infraestrutura de tecnologia por meio de códigos, utilizando o Terraform.
+1. O que é Infraestrutura como Código (IaC)?
+Infraestrutura como Código é uma forma de criar e configurar recursos tecnológicos usando arquivos de código, em vez de configurar tudo manualmente.
+
+Exemplo do dia a dia: em vez de configurar manualmente uma rede para uma empresa, podemos escrever um código que descreve como essa rede deve ser criada.
+
+2. O que é Terraform?
+O Terraform é uma ferramenta que permite criar e gerenciar recursos de infraestrutura por meio de código.
+
+Ele pode ser utilizado para configurar:
+- Redes virtuais.
+- Servidores.
+- Bancos de dados.
+- Recursos em serviços de nuvem.
+
+Exemplo: uma empresa precisa criar uma rede virtual para seus computadores e servidores. Com o Terraform, ela pode descrever essa rede em um arquivo de código.
+
+3. Conceitos principais
+HCL: linguagem utilizada para escrever os arquivos de configuração do Terraform.
+
+Provider: conecta o Terraform a um serviço ou plataforma, como a AWS.
+
+AWS VPC: rede virtual criada dentro da Amazon Web Services (AWS), permitindo organizar recursos de uma infraestrutura.
+
+Módulos: conjuntos de configurações reutilizáveis que ajudam a organizar o código.
+
+Workspaces: permitem manter ambientes diferentes utilizando a mesma configuração, como desenvolvimento e testes.
+4. Ciclo de execução do Terraform
+
+1. terraform init
+
+Inicializa o projeto e prepara os providers necessários.
+
+2. terraform plan
+
+Mostra as alterações que o Terraform pretende realizar.
+
+3. terraform apply
+
+Executa as alterações aprovadas e cria ou modifica os recursos.
+
+Atenção: o terraform apply pode criar recursos pagos na nuvem. A atividade pode ser realizada apenas com análise de código, sem criar recursos reais.

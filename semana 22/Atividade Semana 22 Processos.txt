@@ -1,0 +1,25 @@
+Atividade - Semana 22 Processos
+
+Responda em uma folha e me entregue.
+
+1. O que significa Infraestrutura como Código (IaC)?
+
+2. Para que serve o Terraform?
+
+3. O que é uma AWS VPC?
+
+4. Relacione os comandos às suas funções:
+
+a) terraform init
+
+b) terraform plan
+
+c) terraform apply
+
+   ( ) Executa as alterações aprovadas.
+
+   ( ) Prepara o projeto para uso.
+
+   ( ) Mostra as alterações planejadas.
+
+5. Uma empresa precisa criar redes virtuais para vários projetos. Como o uso de módulos pode ajudar a organizar esse trabalho?
