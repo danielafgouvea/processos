@@ -1,0 +1,86 @@
+REVISÃO SARESP - 2026
+
+Questões de múltipla escolha:
+
+1. Manifesto Ágil - Uma equipe está desenvolvendo um aplicativo escolar. Durante o projeto, os alunos
+responsáveis percebem que precisam conversar com os usuários para entender melhor suas
+necessidades. O professor responsável sugere reuniões frequentes e demonstrações das versões do
+aplicativo. Essa atitude está de acordo com qual valor do Manifesto Ágil?
+A) Seguir um plano fixo, sem alterações.
+B) Valorizar a colaboração com o cliente.
+C) Priorizar documentos em vez de comunicação.
+D) Evitar mudanças durante o desenvolvimento.
+
+2. Princípios do Manifesto Ágil - Uma empresa desenvolve um sistema e só apresenta o resultado ao
+cliente depois de seis meses. Ao receber o sistema, o cliente percebe que várias funções não atendem
+às suas necessidades. Qual princípio ágil poderia ajudar a evitar esse problema?
+A) Entregar o software funcionando frequentemente.
+B) Impedir que o cliente participe do projeto.
+C) Evitar testes durante o desenvolvimento.
+D) Manter todas as decisões até o final do projeto.
+
+3. Testes funcionais - Um aplicativo de compras possui uma função para calcular o valor total de um
+pedido. Um estudante informa dois produtos de R$ 20,00 cada e verifica se o aplicativo apresenta o
+total de R$ 40,00. Esse procedimento é um exemplo de:
+A) Teste de desempenho, pois mede a velocidade do aplicativo.
+B) Teste de segurança, pois protege os dados do usuário.
+C) Teste funcional, pois verifica se uma função produz o resultado esperado.
+D) Teste de usabilidade, pois avalia a aparência da tela.
+
+4. Regras de negócio e condições combinadas - Um aplicativo escolar permite que o estudante
+participe de uma atividade especial se tiver frequência igual ou superior a 75% e todas as atividades
+obrigatórias entregues. Um estudante possui 80% de frequência, mas não entregou todas as atividades.
+De acordo com a regra, o que acontece?
+A) Ele participa, pois atingiu a frequência mínima.
+B) Ele participa, pois basta cumprir uma das condições.
+C) Ele não participa, pois precisa cumprir as duas condições.
+D) Ele participa somente se tiver frequência inferior a 75%.
+
+5. Validação e verificação de requisitos - Uma equipe desenvolveu um sistema de matrícula. Durante
+os testes, verificou que o sistema funcionava conforme as especificações técnicas. Entretanto, ao
+utilizar o sistema, a secretaria percebeu que ele não atendia à necessidade de organizar as matrículas
+por turma. O problema identificado está relacionado principalmente à:
+A) Validação, pois o sistema não atendeu adequadamente à necessidade do usuário.
+B) Verificação, pois o sistema não foi instalado.
+C) Programação, pois todo sistema precisa ser refeito.
+D) Segurança, pois os dados foram necessariamente roubados.
+
+6. Clareza dos requisitos e metodologia SMART - Um cliente solicita a criação de uma tela e registra
+o seguinte requisito: “O sistema deve ser rápido e fácil de usar”. Por que esse requisito precisa ser
+melhorado?
+A) Porque requisitos não podem descrever características do sistema.
+B) Porque a frase apresenta critérios vagos, difíceis de medir e verificar.
+C) Porque requisitos devem ser escritos somente depois da entrega.
+D) Porque a metodologia SMART impede a definição de metas.
+
+7. Requisitos SMART - Qual alternativa apresenta um requisito mais específico e mensurável?
+A) O sistema deve ser muito bom.
+B) O aplicativo deve funcionar perfeitamente sempre.
+C) A tela de consulta deve apresentar os resultados em até 3 segundos, nas condições de teste
+definidas.
+D) O sistema deve ser moderno e agradável.
+
+8. Gerenciamento de mudanças em requisitos - Durante o desenvolvimento de um aplicativo, o
+cliente solicita a inclusão de uma nova função que não estava prevista no planejamento inicial. Qual
+deve ser a atitude da equipe?
+A) Aceitar a mudança imediatamente, sem avaliar consequências.
+B) Recusar toda mudança para não alterar o projeto.
+C) Avaliar o impacto da mudança no escopo, nos custos, nos recursos e no cronograma.
+D) Excluir uma função existente sem conversar com o cliente.
+
+9. Esforço e tempo no cronograma - Uma tarefa de desenvolvimento exige 12 horas de trabalho. Dois
+profissionais trabalharão nela, dedicando 6 horas cada um, no mesmo período. Considerando que o
+trabalho pode ser dividido igualmente e realizado em paralelo, qual alternativa diferencia corretamente
+esforço e tempo?
+A) O esforço é de 6 horas e o tempo é de 12 horas.
+B) O esforço é de 12 horas de trabalho e o tempo previsto é de 6 horas.
+C) O esforço e o tempo são sempre iguais, independentemente da equipe.
+D) O esforço é de 2 horas e o tempo é de 12 horas.
+
+10. Impactos de mudanças no projeto - Uma equipe planejou entregar um aplicativo em quatro
+semanas. Na terceira semana, o cliente solicitou três novas funcionalidades que exigem programação e
+testes adicionais. Qual é a consequência mais provável dessa solicitação?
+A) O cronograma nunca será alterado, pois já foi definido.
+B) O trabalho adicional não terá impacto no projeto.
+C) A equipe deverá avaliar se será necessário ajustar o prazo, os recursos ou o escopo.
+D) As novas funcionalidades podem ser entregues sem desenvolvimento ou testes.
