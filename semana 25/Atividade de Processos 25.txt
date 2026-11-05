@@ -1,0 +1,43 @@
+Atividade de Processos – Semana 25: Complete os textos
+
+Objetivo: Compreender os principais conceitos de confiabilidade, indicadores e controle de falhas em sistemas.
+
+1. Banco de palavras
+
+SRE
+Toil
+SLI
+SLO
+Error Budget
+Disponibilidade
+Automação
+Indicadores
+Metas
+Falhas
+
+2. Complete os textos
+Utilize as palavras do banco para preencher corretamente os espaços.
+
+Texto 1 – Confiabilidade dos sistemas
+
+O ____________ é uma prática que busca garantir que aplicações e sistemas funcionem de maneira confiável, evitando falhas e melhorando o desempenho dos serviços.
+
+Texto 2 – Tarefas repetitivas
+
+O ____________ representa tarefas manuais e repetitivas que consomem muito tempo da equipe. A utilização da ____________ ajuda a diminuir essas tarefas e melhorar a produtividade.
+
+Texto 3 – Medindo a qualidade
+
+O ____________ é utilizado para medir a qualidade e o funcionamento de um serviço. Ele pode acompanhar informações como tempo de resposta, quantidade de erros e ____________ do sistema.
+
+Texto 4 – Estabelecendo objetivos
+
+O ____________ representa uma meta de qualidade que uma empresa deseja alcançar para seu sistema. Essa meta pode determinar, por exemplo, que um site fique disponível em 99,9% do tempo.
+
+Texto 5 – Margem de falhas
+
+O ____________ representa a margem de erros ou indisponibilidade que um sistema pode apresentar sem ultrapassar o limite estabelecido pela empresa. Ele permite equilibrar a estabilidade do sistema com o lançamento de novas funcionalidades.
+
+Texto 6 – Organização e planejamento
+
+Para acompanhar a qualidade de uma aplicação, a equipe utiliza ____________ para verificar seu funcionamento e estabelece ____________ para definir o nível de qualidade desejado. Quando as falhas aumentam, é necessário priorizar melhorias.
