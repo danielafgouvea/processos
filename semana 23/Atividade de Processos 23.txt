@@ -1,0 +1,53 @@
+Atividade de Processos – Semana 23: Complete os textos
+
+Objetivo: Identificar e compreender os principais conceitos do Docker e sua utilização no desenvolvimento de aplicações.
+
+1. Banco de palavras
+
+Docker
+Contêineres
+Namespaces
+cgroups
+CPU
+Memória RAM
+Dockerfile
+Multi-stage
+Distroless
+Docker Compose
+Logs
+Isolamento
+
+
+2. Complete os textos.
+
+Utilize as palavras do banco para preencher os espaços corretamente.
+
+Texto 1 – Conhecendo o Docker
+
+O ____________ é uma plataforma utilizada para executar aplicações dentro de ambientes chamados ____________. Esses ambientes permitem que os programas funcionem de maneira organizada e isolada.
+
+Texto 2 – Isolamento de processos
+
+Os ____________ são recursos responsáveis por realizar o isolamento dos processos, permitindo que diferentes contêineres tenham seus próprios ambientes de execução.
+
+Texto 3 – Controle de recursos
+
+Os ____________ controlam a utilização dos recursos do computador pelos contêineres, como ____________ e ____________. Isso evita que uma aplicação utilize todos os recursos disponíveis.
+
+Texto 4 – Criando imagens
+
+O ____________ é um arquivo que contém instruções para criar uma imagem Docker. Nele são definidos os arquivos, comandos e configurações necessários para preparar uma aplicação.
+
+Texto 5 – Imagens mais eficientes
+
+A técnica ____________ permite dividir a criação de uma imagem em diferentes etapas, deixando a versão final mais organizada e menor.
+
+Já as imagens ____________ possuem somente os componentes necessários para executar a aplicação, evitando ferramentas e arquivos desnecessários.
+
+Texto 6 – Organização dos serviços
+
+O ____________ permite configurar e executar vários contêineres juntos, facilitando o gerenciamento de aplicações que dependem de diferentes serviços.
+
+Texto 7 – Acompanhamento da aplicação
+
+Os ____________ registram as atividades realizadas por uma aplicação. Eles ajudam os desenvolvedores a identificar erros e investigar problemas durante a execução do sistema.
