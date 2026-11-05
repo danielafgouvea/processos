@@ -1,0 +1,56 @@
+Atividade  de Processos – Semana 24: Complete os textos
+
+Objetivo: Identificar e compreender as principais palavras-chave do Kubernetes e suas funções no gerenciamento de aplicações.
+
+1. Banco de palavras
+
+Kubernetes
+Master
+Worker
+Pod
+API
+Deployment
+Service
+ConfigMap
+Escalabilidade
+Rollout
+
+2. Complete os textos
+
+Utilize as palavras do banco para preencher corretamente os espaços.
+
+Texto 1 – Gerenciamento de aplicações
+
+O ____________ é uma plataforma utilizada para gerenciar contêineres e organizar a execução de aplicações. Ele automatiza tarefas e ajuda a manter os sistemas funcionando corretamente.
+
+Texto 2 – Organização do ambiente
+
+Na arquitetura do Kubernetes, o ____________ é responsável por controlar e administrar o ambiente, enquanto o ____________ é responsável por executar as aplicações.
+
+Texto 3 – Unidade de execução
+
+O ____________ é a menor unidade de execução do Kubernetes e pode conter um ou mais contêineres. É nele que as aplicações são executadas.
+
+Texto 4 – Comunicação com o sistema
+
+A ____________ do Kubernetes permite que usuários e ferramentas enviem solicitações para criar, consultar e modificar recursos do ambiente.
+
+Texto 5 – Gerenciamento dos Pods
+
+O ____________ é responsável por controlar a criação e a manutenção dos Pods, garantindo que a quantidade desejada de cópias da aplicação esteja funcionando.
+
+Texto 6 – Acesso à aplicação
+
+O ____________ permite localizar e acessar os Pods de uma aplicação por meio de um endereço de acesso estável.
+
+Texto 7 – Configurações
+
+O ____________ é utilizado para armazenar informações de configuração de uma aplicação, separando essas informações da imagem do contêiner.
+
+Texto 8 – Crescimento da aplicação
+
+A ____________ permite aumentar ou diminuir a quantidade de Pods conforme o número de acessos ou a necessidade do sistema.
+
+Texto 9 – Atualização do sistema
+
+O ____________ é o processo utilizado para atualizar uma aplicação de maneira organizada, substituindo gradualmente as versões antigas pelas novas.
